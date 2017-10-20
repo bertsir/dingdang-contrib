@@ -1,5 +1,5 @@
 # -*- coding: utf-8-*-
-# 获取IP插件
+# 获取室温插件
 import logging
 import sys
 import time
